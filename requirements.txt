@@ -1,5 +1,4 @@
 telethon
-cryptg
 pyaes
 aiohttp
 aiodns
