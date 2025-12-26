@@ -9,4 +9,5 @@ requests
 redis
 FastTelethonhelper
 humanreadable
-pillow
+flask
+gunicorn
